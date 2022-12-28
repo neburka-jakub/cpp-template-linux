@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": true,
+
+    "[c][cpp]": {
+        "editor.tabSize": 2,
+    }
+}
